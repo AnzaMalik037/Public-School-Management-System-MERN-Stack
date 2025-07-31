@@ -3,7 +3,7 @@ Public School Management System (MERN Stack)
 This full-featured web application was developed during my internship at Digital Boost. It enables administrators, teachers, and students to manage school data seamlessly.
 
  🌐 Tech Stack
-- Frontend: React.js, MUI
+- Frontend: React.js
 - Backend: Node.js, Express.js, MongoDB
 - Other: Axios, Recharts, Multer
 
