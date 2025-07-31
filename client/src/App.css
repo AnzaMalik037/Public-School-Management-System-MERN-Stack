@@ -1,0 +1,8 @@
+
+body {
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  background: radial-gradient(circle, #ffffff 0%, #dde9ff 100%);
+  color: #333;
+}
